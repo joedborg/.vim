@@ -91,3 +91,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "bundle/ropevim"]
+	path = bundle/ropevim
+	url = https://github.com/python-rope/ropevim.git
