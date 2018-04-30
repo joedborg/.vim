@@ -100,3 +100,21 @@
 [submodule "bundle/lightline.vim"]
 	path = bundle/lightline.vim
 	url = git@github.com:itchyny/lightline.vim.git
+[submodule "bundle/rust.vim"]
+	path = bundle/rust.vim
+	url = git@github.com:rust-lang/rust.vim.git
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
+[submodule "bundle/vim-gocode"]
+	path = bundle/vim-gocode
+	url = git@github.com:Blackrush/vim-gocode.git
+[submodule "bundle/vim-markdownfmt"]
+	path = bundle/vim-markdownfmt
+	url = git@github.com:moorereason/vim-markdownfmt.git
+[submodule "bundle/vim-racer"]
+	path = bundle/vim-racer
+	url = git@github.com:racer-rust/vim-racer.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = git@github.com:honza/vim-snippets.git
