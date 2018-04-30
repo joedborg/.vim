@@ -94,3 +94,9 @@
 [submodule "bundle/ropevim"]
 	path = bundle/ropevim
 	url = https://github.com/python-rope/ropevim.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = git://github.com/vim-ruby/vim-ruby.git
+[submodule "bundle/lightline.vim"]
+	path = bundle/lightline.vim
+	url = git@github.com:itchyny/lightline.vim.git
